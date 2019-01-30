@@ -14,7 +14,7 @@ import (
 const (
 	accessKeyId     = "xxxx"
 	accessKeySecret = "xxxx"
-	domainName      = "tiduyun.com"
+	domainName      = "xxx.com"
 	subSomain       = "150"
 )
 
